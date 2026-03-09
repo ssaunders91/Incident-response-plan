@@ -1,6 +1,8 @@
 # 🛡️ Incident Response Plan
 This Incident Response Plan serves as a practical application of the **NCSC framework**, produced as a formal requirement for the **NCFE Level 3 in Cyber Security Practices**.
 
+**[Cick here for full PDF Report](https://github.com/ssaunders91/Incident-response-plan/blob/main/Incident%20Response%20Plan.pdf)**
+
 ---
 
 ## 📖 1. Purpose and Scope
